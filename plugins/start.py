@@ -278,7 +278,7 @@ async def not_joined(client: Client, message: Message):
                 "Join Channel 👆",
                 url=client.invitelink),
             InlineKeyboardButton(
-                "Join Channel 👆",
+                "L-FLIX BACKUP 1 👆",
                 url=client.invitelink2),
         ]
     ]
@@ -286,7 +286,7 @@ async def not_joined(client: Client, message: Message):
         buttons = [
             [
                 InlineKeyboardButton(
-                    "Join Channel 👆",
+                    "L-FLIX BACKUP 2 👆",
                     url=client.invitelink)
             ]
         ]
