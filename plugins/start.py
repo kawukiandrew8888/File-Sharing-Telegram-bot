@@ -275,10 +275,10 @@ async def not_joined(client: Client, message: Message):
         buttons = [
         [
             InlineKeyboardButton(
-                "Join Channel 👆",
+                "📥 L-FLIX BACKUP 01 📥",
                 url=client.invitelink),
             InlineKeyboardButton(
-                "L-FLIX BACKUP 1 👆",
+                "📥 L-FLIX BACKUP 02 📥",
                 url=client.invitelink2),
         ]
     ]
